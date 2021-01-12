@@ -6,5 +6,9 @@ weight:, handed:, complexion:, t_shirt_size:,
 wrist_size:, glove_size:, pant_length:, pant_width:)
     @name = name 
     @hair_color = hair_color
+    @birthday = birthday 
+    @eye_color = eye_color 
+    @height = height 
+    @weight = weight
   end 
 end
