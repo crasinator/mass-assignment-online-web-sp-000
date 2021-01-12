@@ -1,6 +1,6 @@
 class Person
 
-  def initialize(hash)
+  def initialize()
     @name = name 
     @hair_color = hair_color
   end 
