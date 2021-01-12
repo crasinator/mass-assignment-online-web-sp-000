@@ -1,4 +1,5 @@
 class Person
+  attr_accessor :name
 
   def initialize(name:, birthday:, hair_color:, eye_color:, height:, 
 weight:, handed:, complexion:, t_shirt_size:, 
